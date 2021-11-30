@@ -1,0 +1,12 @@
+.gambar{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.gambar1{
+display: flex;
+justify-content: center;
+gap: 15  px;
+margin-top: 10px;
+border: 2px solid black;
+}
